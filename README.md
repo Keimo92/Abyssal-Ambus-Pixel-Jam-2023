@@ -20,6 +20,6 @@ https://keimo.itch.io/abyssal-ambush
 
 We made this game in time period of November 14th 2023 to November 30th 2023.
 
-It's not finish there is couple bug's still need's to be fixed.
+It's not finish product. There is couple bug's still need's to be fixed.
 
 Enjoy the game :)
